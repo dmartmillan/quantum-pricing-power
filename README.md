@@ -1,4 +1,4 @@
-# ![](/images/atom.png) Quantum Pricing Power - QPP
+# <img src="/images/atom.png" style="text-align: center;" width="50" height="50"> Quantum Pricing Power - QPP
 
 ### Getting started:
 
