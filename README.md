@@ -1,4 +1,4 @@
-# Quantum Pricing Power - QPP
+# ![](/images/atom.png) Quantum Pricing Power - QPP
 
 ### Getting started:
 
