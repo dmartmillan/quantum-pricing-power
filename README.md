@@ -1,7 +1,18 @@
-# Quantum Pricing Power - QPP
+# <img src="/images/atom.png" style="text-align: center;" width="50" height="50"> Quantum Pricing Power - QPP
 
 ### Getting started:
-
+```bash
+pip install qiskit matplotlib numpy
+git clone https://github.com/dmartmillan/quantum-pricing-power.git
+python3 main.py
+```
+### Inputs:
+* Option Type (Call or Put)
+* Underlying price
+* Underlying price volatility
+* Risk free rate
+* Days to expiration
+* Strike
 
 #### References:
 * [Qiskit](https://qiskit.org/)
